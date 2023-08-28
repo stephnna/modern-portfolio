@@ -17,7 +17,7 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'
           >Stephen</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          I can help you build a product,<br className='sm:block hidden'/> feature or website in 3D or 2D virtuals
+          I can help you build a product,<br className='sm:block hidden'/> feature or website in 3D or 2D format to your satisfaction.
 
           </p>
         </div>        
@@ -30,7 +30,7 @@ const Hero = () => {
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div
               animate={{
-                y: [0, 24, 0],
+                y: [-1, 24, 1],
               }}
               transition={{
                 duration: 1.5,

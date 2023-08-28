@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
+import live from "./live.jpg";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -21,21 +22,26 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import scgssn from "./company/scgssn.jpg";
+import abc from "./company/abc.jpg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import web3 from "./web3.png";
+import quiz from "./quiz.png";
+import skill from "./skill.png";
+import meal from "./meal.png";
+import scgssn_web from "./scgssn_web.png";
+
+import ibeh from "./ibeh.jpg";
+import asim from "./asim.jpg";
+import oscar from "./oscar.jpg";
 
 export {
   logo,
+  live,
   backend,
   creator,
   mobile,
-  web,
+  web,  
   github,
   menu,
   close,
@@ -51,12 +57,15 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  threejs,  
+  scgssn,
+  abc,
+  web3,
+  quiz,
+  meal,
+  skill,
+  ibeh,
+  asim,
+  scgssn_web,
+  oscar
 };
