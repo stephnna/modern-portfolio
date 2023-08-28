@@ -46,13 +46,13 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-"Experience a cutting-edge 3D portfolio like no other, meticulously crafted using the latest web technologies. Our portfolio is built using ReactJS as the foundation, allowing for a dynamic and responsive user interface. The integration of Redux ensures efficient state management, enabling seamless navigation and interactions throughout the experience.
+- **Experience a cutting-edge 3D portfolio like no other, meticulously crafted using the latest web technologies. Our portfolio is built using ReactJS as the foundation, allowing for a dynamic and responsive user interface. The integration of Redux ensures efficient state management, enabling seamless navigation and interactions throughout the experience.**
 
-Step into a world of immersive 3D graphics powered by React Three Fiber and React Three Drei libraries. Showcase your work with lifelike depth and realism, captivating visitors with interactive and visually stunning representations of your projects. From architectural visualizations to product designs, the possibilities are limitless.
+- **Step into a world of immersive 3D graphics powered by React Three Fiber and React Three Drei libraries. Showcase your work with lifelike depth and realism, captivating visitors with interactive and visually stunning representations of your projects. From architectural visualizations to product designs, the possibilities are limitless.**
 
-The motion design of the portfolio is elevated through Framer Motion, adding fluid animations and transitions that breathe life into your projects. Users will be captivated by the smooth and engaging movements that guide them through your portfolio, creating an unforgettable browsing experience.
+- **The motion design of the portfolio is elevated through Framer Motion, adding fluid animations and transitions that breathe life into your projects. Users will be captivated by the smooth and engaging movements that guide them through your portfolio, creating an unforgettable browsing experience.**
 
-Under the hood, JavaScript plays a crucial role in implementing custom functionalities and interactions. This ensures that your portfolio not only looks exceptional but also functions flawlessly, catering to a seamless user experience. Meanwhile, Tailwind CSS provides a strong foundation for responsive and aesthetically pleasing design, making sure your portfolio looks stunning across various devices and screen sizes.
+- **Under the hood, JavaScript plays a crucial role in implementing custom functionalities and interactions. This ensures that your portfolio not only looks exceptional but also functions flawlessly, catering to a seamless user experience. Meanwhile, Tailwind CSS provides a strong foundation for responsive and aesthetically pleasing design, making sure your portfolio looks stunning across various devices and screen sizes.**
 - **It provides feedback on the user's answers, indicating whether they are correct or incorrect**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
