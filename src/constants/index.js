@@ -360,7 +360,7 @@ const projects = [
     ],
     image: quiz,
     source_code_link: "https://github.com/stephnna/interactive-quiz-game_",
-    website_link: "https://interactive-game-quiz.netlify.app/",
+    website_link: "https://interactive-quiz-game.vercel.app/",
   },
   {
     name: "Online Restaurant",
@@ -382,7 +382,7 @@ const projects = [
     ],
     image: meal,
     source_code_link: "https://github.com/stephnna/e-meal",
-    website_link: "https://github.com/stephnna/e-meal",
+    website_link: "https://stephnna.github.io/e-meal/",
   },
   {
     name: "Learning Hub",
