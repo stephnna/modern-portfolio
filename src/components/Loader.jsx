@@ -22,7 +22,7 @@ const CanvasLoader = () => {
           marginTop: 40,
         }}
       >
-        {progress}%
+        {Math.round(progress)}%
       </p>
     </Html>
   );

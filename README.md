@@ -59,7 +59,7 @@
 
 <!-- LIVE DEMO -->
 ## 🚀 LIVE DEMO <a name="live-demo"></a>
-- [Link to Live Demo](stephenezea.vercel.app/)
+- [Link to Live Demo](https://stephenezea.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
