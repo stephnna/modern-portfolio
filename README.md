@@ -24,7 +24,7 @@
 
 # 📖 Modern 3D Portfolio<a name="about-project"></a>
 
-**Modern 3D Portfolio** Immerse viewers in a state-of-the-art 3D portfolio built with ReactJS, Redux, React Three Fiber, React Three Drei, Framer Motion, JavaScript, and Tailwind CSS. Seamlessly navigate projects through dynamic ReactJS and Redux integration, ensuring efficient state management for a smooth user experience. Leveraging React Three Fiber and React Three Drei libraries, the portfolio presents lifelike 3D graphics for an immersive display of architectural, product, and creative works. Framer Motion adds fluid animations, enhancing user engagement. JavaScript powers custom functionalities, while Tailwind CSS ensures responsive design across devices. This synergy creates an exceptional showcase of creativity, setting your portfolio apart in the digital landscape with a perfect blend of technology and aesthetics.
+**Modern 3D Portfolio** Immerse viewers in a state-of-the-art 3D portfolio built with ReactJS, Redux, React Three Fiber, React Three Drei, Framer Motion, JavaScript, and Tailwind CSS. Seamlessly navigate projects through dynamic ReactJS and Redux integration, ensuring efficient state management for a smooth user experience. Leveraging React Three Fiber and React Three Drei libraries, the portfolio presents lifelike 3D graphics for an immersive display of architectural, product, and creative works. Framer Motion adds fluid animations, enhancing user engagement. JavaScript powers custom functionalities, while Tailwind CSS ensures responsive design across devices. This synergy creates an exceptional showcase of creativity, setting this portfolio apart in the digital landscape with a perfect blend of technology and aesthetics.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,13 +46,13 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Experience a cutting-edge 3D portfolio like no other, meticulously crafted using the latest web technologies. Our portfolio is built using ReactJS as the foundation, allowing for a dynamic and responsive user interface. The integration of Redux ensures efficient state management, enabling seamless navigation and interactions throughout the experience.**
+- **Experience a cutting-edge 3D portfolio like no other, meticulously crafted using the latest web technologies. This portfolio is built using ReactJS as the foundation, allowing for a dynamic and responsive user interface. The integration of Redux ensures efficient state management, enabling seamless navigation and interactions throughout the experience.**
 
-- **Step into a world of immersive 3D graphics powered by React Three Fiber and React Three Drei libraries. Showcase your work with lifelike depth and realism, captivating visitors with interactive and visually stunning representations of your projects. From architectural visualizations to product designs, the possibilities are limitless.**
+- **Step into a world of immersive 3D graphics powered by React Three Fiber and React Three Drei libraries. Showcase my work with lifelike depth and realism, captivating visitors with interactive and visually stunning representations of my projects. From architectural visualizations to product designs, the possibilities are limitless.**
 
 - **The motion design of the portfolio is elevated through Framer Motion, adding fluid animations and transitions that breathe life into your projects. Users will be captivated by the smooth and engaging movements that guide them through your portfolio, creating an unforgettable browsing experience.**
 
-- **Under the hood, JavaScript plays a crucial role in implementing custom functionalities and interactions. This ensures that your portfolio not only looks exceptional but also functions flawlessly, catering to a seamless user experience. Meanwhile, Tailwind CSS provides a strong foundation for responsive and aesthetically pleasing design, making sure your portfolio looks stunning across various devices and screen sizes.**
+- **Under the hood, JavaScript plays a crucial role in implementing custom functionalities and interactions. This ensures that this portfolio not only looks exceptional but also functions flawlessly, catering to a seamless user experience. Meanwhile, Tailwind CSS provides a strong foundation for responsive and aesthetically pleasing design, making sure your portfolio looks stunning across various devices and screen sizes.**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -90,16 +90,5 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project kindly star the project
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-We would like to thank Believers tech Network who came up with project idea.
-View the full [project task](https://docs.google.com/document/d/1_e75wXocwZF-IdeqDwvWR52deU34gGokVGthlI-MmAk/edit#heading=h.3qmrs766hafj) description 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
