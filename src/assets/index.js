@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import pics from "./pics.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import live from "./live.jpg";
@@ -37,6 +38,7 @@ import oscar from "./oscar.jpg";
 
 export {
   logo,
+  pics,
   live,
   backend,
   creator,
